@@ -25,3 +25,5 @@ The project was built with contributions from:
 ## Additional Materials
 
 We created a [demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to help understand the vision and how the parts of our project fit together.
+
+#### What's next for your project?
