@@ -1,6 +1,6 @@
 ---
 name: Project Proposal Issue
-about: Describe this issue template's purpose here.
+about: Use this template while you submitting a project proposal for a Hackathon.
 title: ''
 labels: ''
 assignees: ''
