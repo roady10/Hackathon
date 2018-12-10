@@ -37,5 +37,5 @@ Below are the links to the specific problem statements for ongoing hackathons :
 
 * [SPIT Hackathon](./SPIT/Readme.md).
 * [KJ Hackathon](./KJ/Readme.md).
-* [Hackference](./Hackference-2018/Readme.md)
+* [Hackference](./Hackference-2018/ReadMe.md)
 
