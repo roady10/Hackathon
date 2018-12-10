@@ -1,50 +1,37 @@
-# Welcome
+# About Problem Statements
 
-Welcome to the submission repository for the Hackathons associated with XinFin.
+## VISION
 
-You can read more about XinFin and it's protocol on the [Docs site]().
+To innovate and replace existing non-efficient closed systems with more transparent, efficient system using blockchain.
 
-# Submission Guidelines
+## NOTES
+1. Each problem statement is designed to be a strong, practical blockchain based solution and hence every solution for the problem statement stated below must be built around / using XDC blockchain.
+2. Apart from mandatory inclusion of blockchain, participants are given complete freedom for choosing technology, programming languages etc. in the development of the application.
+3. Problem statements are meant to be generic in order to give participants flexibility to work around.
 
-Participating in the hackathon is as easy as contributing to an open source project on GitHub. Exactly so, because you will register your project by creating an issue in this repository, and submit it by creating a pull request.
+## Submission Guidelines
+ [Submission Guidelines](./submission-guide/SubmissionGuide).
 
-Here’s how it works:
 
-## The Submission Process
+## Open Problem Statements
 
-### 1) Create an issue
-Your first step is to create an issue in the `hackathon-submissions` repository. This issue acts as a "soft" registration for the hackathon, and can help you to coordinate your ideas with other participants. An issue is a good place to talk openly about your project ideas with others before you decide on its exact scope.
+Below we have listed the problem statements which are open to all. In order to participate, create a proposal in the format specified & make a pull request.
 
-Use your issue to talk with collaborators, brainstorm, and organize. Check out the other issues to see if there are participants who want to work on the same things.
+### Change Proof of Work (PoW) Consensus in blockchain
 
-Members of the XinFin team will be able to point other participants to your issue (if it looks like they can help), help you with technical questions, or just offer support :)
+Too much energy consumption make PoW consensus non practical and not suitable for real world system.
+We need to find out other innovative consensus where transaction and network remains de-centralised but without much energy consumption. Many experts trying Proof of stake like DPoS. Restriction numbers of node make its more centralized while large number of nodes makes the system very slow.
+We need to find out innovative solution to replace PoW Consensus with other Consensus which gives more efficiency, speed and less energy consumption.
 
-Issue events will also be pulled into the Gitter feed [Gitter](__) which is a better place for more general discussion and chatting.
+### Cross Blockchain Interoperability.
 
-### 2) Build with XinFin
-Work on your project as you like. How you work is up to you; We recommend creating a new GitHub repo for your team. Remember to only begin working on your project after the hackathon begins!!
+Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.
 
-Use the issue you created in step 1 to let others know where your project lives. You might want discuss any technical challenges or attract additional teammembers.
 
-Wherever you work, remember that your project should include an **Open Source License** of [some form](https://opensource.org/licenses), and should be accessible to everyone after the submission deadline.
+## For Hackathons
 
-### 3) Fork and PR
-When you feel ready to submit, create a new fork of the colonyHackathon repo, and add your project as a markdown file inside `Hackathon-Submissions/submissions/`.
+Below are the links to the specific problem statements for ongoing hackathons :
 
-You can use `submissions/exampleProject.md` as a template if you like.
-
-Be sure that your project's folder links to the repo you've been working in, and contains any other supporting materials that you want evaluated by judges (such as links to a pitch deck or demo video).
-
-Once ready, submit via a new [pull request](https://github.com/XinFinOrg/Hackathon-Submissions/pulls).
-
-*Opening a Pull Request establishes your project as an "official" submission*
-
-You can open a PR before the submission deadline and continue to work, but all materials must be finalized *before* the end of the hackathon. Any commits to your project submission after the deadline will not be considered.
-
-We'd also recommend referencing the issue you created in step 1 [using keywords](https://help.github.com/articles/closing-issues-using-keywords/) in your PR.
-
-**Submit your pull request before the submission deadline**
-
-### 4) Congratulate your team (and yourself) on a job well-done
-Whether or not you get a prize, you deserve to be proud of your work. Thanks for participating in the hackathon!
-
+* [SPIT Hackathon](./SPIT/SPIT.md).
+* [KJ Hackathon](./KJ/KJ.md).
+* [Hackference](./Hackference-2018/Hackference.md).
